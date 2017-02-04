@@ -1,7 +1,7 @@
-# WHMCS Persian RTL Theme
+# WHMCS Client Persian Theme | RTL
 WHMCS V 7.1
 
-# قالب راست چین شده و فارسی WHMCS
+# قالب راست چین شده و فارسی محیط کاربری WHMCS
 
 فایل های تغییر داده شده به شرح زیر می باشند :
 <pre>
