@@ -1,7 +1,4 @@
 <?php
-// Include the main TCPDF library (search for installation path).
-require_once('pdf/tcpdf_include.php');
-
 // set some language dependent data:
 $lg = Array();
 $lg['a_meta_charset'] = 'UTF-8';
