@@ -5,7 +5,7 @@
         {/if}
 
         {if $captcha == "recaptcha"}
-            <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+            <script src="https://www.google.com/recaptcha/api.js?hl=fa" async defer></script>
             <div id="google-recaptcha-domainchecker" class="g-recaptcha center-block" data-sitekey="{$reCaptchaPublicKey}"></div>
         {else}
             <div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1">
