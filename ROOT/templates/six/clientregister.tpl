@@ -157,7 +157,7 @@
                         <div class="col-md-12">
                             <label class="checkbox">
                             <input type="checkbox" name="accepttos" class="accepttos">
-                            {$LANG.ordertosagreement} <a href="{$tosurl}" target="_blank">{$LANG.ordertos}</a>
+                          <a href="{$tosurl}" target="_blank">{$LANG.ordertos}</a> {$LANG.ordertosagreement} 
                             </label>
                         </div>
                 </div>
